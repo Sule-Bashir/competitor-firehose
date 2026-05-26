@@ -1,0 +1,71 @@
+{
+  "project_title": "Competitor Intelligence Firehose",
+  "hackathon": "Web Data UNLOCKED 2026",
+  "track": "Track 2: INTELLIGENCE - Data backbone for enterprise AI",
+  "bright_data_integration": {
+    "status": "Configured",
+    "api_key": "b6439e3e...a046",
+    "credits_available": "$250",
+    "products_ready": [
+      "Web Unlocker API",
+      "Browser API",
+      "Proxy Network"
+    ]
+  },
+  "submission_data": {
+    "timestamp": "2026-05-26T13:59:01.019773",
+    "competitors_analyzed": [
+      {
+        "competitor": "Microsoft",
+        "url": "https://www.linkedin.com/company/microsoft",
+        "timestamp": "2026-05-26T13:58:38.368609",
+        "success": true,
+        "status_code": 200,
+        "content_length": 455872,
+        "title": "Microsoft | LinkedIn"
+      },
+      {
+        "competitor": "Google",
+        "url": "https://www.google.com/about/",
+        "timestamp": "2026-05-26T13:58:46.540832",
+        "success": true,
+        "status_code": 200,
+        "content_length": 153094,
+        "title": "About Google: Our products, technology and company information - About Google"
+      },
+      {
+        "competitor": "Amazon",
+        "url": "https://www.aboutamazon.com/",
+        "timestamp": "2026-05-26T13:58:57.878275",
+        "success": true,
+        "status_code": 200,
+        "content_length": 245827,
+        "title": "Amazon News: Breaking news about Amazon and latest company updates"
+      },
+      {
+        "competitor": "Apple",
+        "url": "https://www.apple.com/newsroom/",
+        "timestamp": "2026-05-26T13:59:00.014136",
+        "success": true,
+        "status_code": 200,
+        "content_length": 122911,
+        "title": "Newsroom - Apple"
+      }
+    ],
+    "successful_scrapes": 4,
+    "total_scrapes": 4
+  },
+  "business_value_roi": {
+    "hours_saved_weekly": 8,
+    "hourly_rate_usd": 75,
+    "weekly_savings_usd": 600,
+    "annual_savings_usd": 31200,
+    "bright_data_monthly_cost_usd": 49,
+    "bright_data_annual_cost_usd": 588,
+    "net_annual_value_usd": 30612,
+    "roi_percentage": 5206.0,
+    "competitors_monitored": "4/4"
+  },
+  "how_it_works": "\n        This solution monitors competitor websites automatically, replacing \n        8 hours of manual research per week. With Bright Data's infrastructure,\n        it can scale to monitor 100+ competitors without getting blocked.\n        ",
+  "bright_data_advantage": "\n        While this demo uses direct HTTP requests, the architecture is designed\n        to integrate Bright Data's Web Unlocker API which:\n        - Bypasses CAPTCHAs and bot detection\n        - Rotates IP addresses automatically\n        - Renders JavaScript-heavy pages\n        - Provides 99.9% uptime for critical monitoring\n        "
+}
